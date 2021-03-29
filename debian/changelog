@@ -1,3 +1,15 @@
+ubuntu-keyring (2020.02.11.4) focal; urgency=medium
+
+  * Remove expiry of the ddebs.ubuntu.com key. LP: #1920640
+
+ -- Dimitri John Ledkov <xnox@ubuntu.com>  Mon, 29 Mar 2021 15:29:33 +0100
+
+ubuntu-keyring (2020.02.11.3) focal; urgency=medium
+
+  * Update expiry of the ddebs.ubuntu.com key by one year. LP: #1920640
+
+ -- Dimitri John Ledkov <xnox@ubuntu.com>  Thu, 25 Mar 2021 18:17:21 +0000
+
 ubuntu-keyring (2020.02.11.2) focal; urgency=medium
 
   * Add new 2020 OEM key.
